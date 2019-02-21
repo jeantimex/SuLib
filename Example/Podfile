@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SuLib_Tests' do
+  pod 'SuLib', :path => '../'
+  
+  
+end
