@@ -1,0 +1,16 @@
+PODS:
+  - SuLib (0.1.0)
+
+DEPENDENCIES:
+  - SuLib (from `../`)
+
+EXTERNAL SOURCES:
+  SuLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SuLib: f11ab2f75e1f954f77ea64fdfac347eaa3626185
+
+PODFILE CHECKSUM: c7d2e7bd6860529742511a15225b8bf9fb4b0188
+
+COCOAPODS: 1.6.0

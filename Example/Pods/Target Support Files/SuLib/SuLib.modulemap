@@ -1,0 +1,6 @@
+framework module SuLib {
+  umbrella header "SuLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

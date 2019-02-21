@@ -1,0 +1,6 @@
+framework module Pods_SuLib_Tests {
+  umbrella header "Pods-SuLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

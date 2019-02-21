@@ -16,6 +16,8 @@ class Tests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         XCTAssert(true, "Pass")
+        let suLib = SuLib(x: 0, y: 0)
+        XCTAssertEqual(3, suLib.add(a: 1, b: 2))
     }
     
     func testPerformanceExample() {
